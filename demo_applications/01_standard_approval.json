@@ -1,0 +1,15 @@
+{
+  "full_name": "Jane Doe",
+  "age": 34,
+  "home_ownership": "Rent",
+  "employment_status": "Employed",
+  "employment_years": 5.0,
+  "annual_income": 60000,
+  "loan_amount": 15000,
+  "term_months": 36,
+  "purpose": "Debt consolidation",
+  "monthly_debt": 800,
+  "credit_history_years": 8,
+  "open_accounts": 4,
+  "delinquencies": 0
+}

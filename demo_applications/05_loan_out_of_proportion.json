@@ -1,0 +1,15 @@
+{
+  "full_name": "Tom Brown",
+  "age": 22,
+  "home_ownership": "Rent",
+  "employment_status": "Employed",
+  "employment_years": 1.0,
+  "annual_income": 25000,
+  "loan_amount": 40000,
+  "term_months": 12,
+  "purpose": "Car",
+  "monthly_debt": 300,
+  "credit_history_years": 2,
+  "open_accounts": 4,
+  "delinquencies": 0
+}

@@ -1,0 +1,15 @@
+{
+  "full_name": "Mark Lee",
+  "age": 29,
+  "home_ownership": "Rent",
+  "employment_status": "Employed",
+  "employment_years": 5.0,
+  "annual_income": 48000,
+  "loan_amount": 12000,
+  "term_months": 36,
+  "purpose": "Debt consolidation",
+  "monthly_debt": 2400,
+  "credit_history_years": 6,
+  "open_accounts": 4,
+  "delinquencies": 0
+}
